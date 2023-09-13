@@ -1,0 +1,18 @@
+/* AboutUs.css */
+.about {
+    padding: 20px;
+    text-align: left;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  ul {
+    list-style: disc;
+    padding-left: 20px;
+    font-size: 18px;
+    color: #555;
+  }
+  

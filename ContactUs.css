@@ -1,0 +1,25 @@
+/* ContactUs.css */
+.contact {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  address {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  address p {
+    margin: 5px 0;
+  }
+  

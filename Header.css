@@ -1,0 +1,31 @@
+/* Header.css */
+header {
+    background-color: #001f3f;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin: 0;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+    font-size: 18px;
+    color: #fff;
+  }
+  
+  nav ul li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
