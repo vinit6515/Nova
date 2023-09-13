@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vinit6515/Nova/static/css/main.a950793c.css",
+    "main.js": "/vinit6515/Nova/static/js/main.77c0ece5.js",
+    "static/js/787.fe1675bb.chunk.js": "/vinit6515/Nova/static/js/787.fe1675bb.chunk.js",
+    "index.html": "/vinit6515/Nova/index.html",
+    "main.a950793c.css.map": "/vinit6515/Nova/static/css/main.a950793c.css.map",
+    "main.77c0ece5.js.map": "/vinit6515/Nova/static/js/main.77c0ece5.js.map",
+    "787.fe1675bb.chunk.js.map": "/vinit6515/Nova/static/js/787.fe1675bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a950793c.css",
+    "static/js/main.77c0ece5.js"
+  ]
+}
